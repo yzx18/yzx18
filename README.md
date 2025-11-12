@@ -1,3 +1,3 @@
 ## Hi there 👋
 ## 👋 About Me
-I'm yzx18, a developer focused on **JAVA & Frontend** (current learning).
+I'm CrazyCoding-byte, a developer focused on **JAVA & Frontend** (current learning).
